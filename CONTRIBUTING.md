@@ -8,20 +8,20 @@ Please remember, you're representing Scroll's community when you engage with oth
 
 ### Finding an Issue
 
-On our Issues page, you'll find a number of ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
+On our Issues page, you'll find a number of ways to contribute. Many are "integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
 
 ### Creating an Issue
 
-Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
+Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo, and outlining what changes would need to be made. Someone from our team can then add additional tasks, context, or even spec out or implement the code needed.
 
-#### How to create an issue?
+#### How do I create an issue?
 To create an issue, you have several options:
-- Use predefined issue templates found [here](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). With these you can:
-   - **"Add Scroll to some tool or library"** - _Integrate Scroll into your favourite project_
-   - **"Propose new Skunkworks project"** - _Have some innovative idea you want built on top of Scroll? Propose it here!_
-- [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
+- Use the predefined issue templates found [here](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). With these, you can:
+   - **"Add Scroll to some tool" or "library."** - _Integrate Scroll into your favourite project_
+   - **"Propose a new Skunkworks project."** - _Have some innovative ideas you want built on top of Scroll? Propose it here!_
+- [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal.
 
-And that's it! You've started your contribution to Scroll journey 📜 🚀
+And that's it! You've started your contribution to Scroll journey. 📜 🚀
 
 ### Making a PR
 
@@ -32,7 +32,7 @@ Remember to review each external project's `CONTRIBUTING.md` file before making 
 #### Making a PR to this Repo
 
 1. Fork the `contribute-to-scroll` repo.
-2. Add your contribution, showing the Issue it closes (or contributes to), along with the link to the PR raised in another repo.
+2. Add your contribution, showing the issue it closes (or contributes to), along with the link to the PR raised in another repo.
 3. Describe your work and fill out the template.
 4. Add a new entry to the `contributions.json` file by following the same format as the other projects listed.
 5. Additional contributors will also need to make a commit to the PR (or a later PR). We suggest they do so by adding their name to the `contributions.json` file to receive acknowledgement.
